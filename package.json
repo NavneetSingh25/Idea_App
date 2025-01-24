@@ -1,0 +1,22 @@
+{
+  "name": "ideaapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "y"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NavneetSingh25/Idea_App.git"
+  },
+  "author": "Navneet Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NavneetSingh25/Idea_App/issues"
+  },
+  "homepage": "https://github.com/NavneetSingh25/Idea_App#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
